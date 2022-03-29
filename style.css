@@ -271,6 +271,7 @@ img {
 .preco-item a:hover {
 	color: white;
 	background-color: #222;
+	transition: 1s ease;
 }
 
 .copper {
